@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushik.H.S/Downloads/java jar/smack.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushik.H.S/Downloads/java jar/smackx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushik.H.S/Downloads/java jar/smackx-debug.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kaushik.H.S/Downloads/java jar/smackx-jingle.jar"/>
+	<classpathentry kind="lib" path="/openfire/src/plugins/kraken/lib/httpclient.jar"/>
+	<classpathentry kind="lib" path="/openfire/src/plugins/kraken/lib/httpcore.jar"/>
+	<classpathentry kind="lib" path="/openfire/src/plugins/jitsivideobridge/lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="/openfire/src/plugins/stunserver/lib/jstun-0.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
